@@ -1,0 +1,10 @@
+* {
+    margin: 0 ;
+}
+
+p {
+    margin: 20px;
+    padding: 20px;
+    border: 20px solid rebeccapurple;
+    background-color: brown;
+}

@@ -1,0 +1,29 @@
+/*  
+Forma colocando cada lateral separada
+ margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px; */
+
+  /*
+  Forma coloando o mesmo valor no topo e na laterais
+  margin: 30px 15px;*/
+
+  /*
+  Esse e a forma colocando o mesmo valor de todos os lados*/
+
+p {
+    
+  margin: 30px 15px;
+  padding: 20px 20px;
+  background-color: aquamarine;
+  
+  border: 20px solid red;
+ 
+
+}
+
+h1 {
+    border-style:solid;
+    border-width: 20px;
+    border-color: aqua green orange black;
+}
